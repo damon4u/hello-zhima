@@ -5,3 +5,5 @@
 ![芝麻认证商户接入蚂蚁开放平台流程](https://img.alicdn.com/top/i1/LB1Ot3KOpXXXXauaXXXXXXXXXXX)
 
 2
+
+1
